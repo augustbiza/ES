@@ -6,5 +6,5 @@ Modelagem de um Sistema de um Supermercado Inteligente utilizando:
 - Classe (diagrama)  
 - Modelo de Domínio (diagrama)  
 - Atividade (diagrama)  
-- Planning Poker  
+- Prototipação  
 #### Primeira versão do Front-End
